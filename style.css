@@ -1,0 +1,36 @@
+/* .container{
+    width: 80vw;
+    ;
+    background-color: red;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
+.box{
+    width: 100px;
+    height: 70px;
+    background-color: aliceblue;
+    border: 5px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 30px;
+} */
+ul{
+    display: flex;
+    width: 30vw;
+    background-color: brown;
+    justify-content: space-between;
+}
+header{
+    width: 100vw;
+    background-color: blue;
+    display: flex;
+    padding: 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
